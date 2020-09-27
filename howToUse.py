@@ -1,4 +1,3 @@
-
 import PortScanner
 
 def scanner():
